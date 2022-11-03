@@ -8,6 +8,11 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 .link {
   position: relative;
   color: rgb(135, 59, 202);

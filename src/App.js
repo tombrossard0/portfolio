@@ -29,7 +29,7 @@ function App() {
           </div>
         </div>
 
-        <div id="About me"><About/></div>
+        <div id="About"><About/></div>
 
         <div class="relative z-[0]">
           <div class="custom-shape-divider-top-1667067055">
@@ -51,7 +51,7 @@ function App() {
           </div>
         </div>
 
-        <div id="Contact me"><Contact/></div>
+        <div id="Contact"><Contact/></div>
       </div>
       <Footer/>
     </div>
