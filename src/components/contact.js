@@ -15,15 +15,15 @@ const Contacts = (props) => {
                 </div>
 
                 <div className="bg-white p-5 rounded-[20px] drop-shadow-2xl flex mr-[10px] transition-[1s] w-[100px] hover:w-[290px]"><img src={discord_img} class="w-[60px]"></img>
-                    <div className="overflow-hidden mt-2 ml-[20px]"><span class="">tombrossard0</span></div>
+                    <div className="overflow-hidden mt-2 ml-[20px]"><span class="">discord</span></div>
                 </div>
 
                 <div className="bg-white p-5 rounded-[20px] drop-shadow-2xl flex mr-[10px] transition-[1s] w-[100px] hover:w-[290px]"><img src={linkedin_img} class="w-[60px]"></img>
-                    <div className="overflow-hidden mt-2 ml-[20px]"><span class="">tombrossard0</span></div>
+                    <div className="overflow-hidden mt-2 ml-[20px]"><span class="">linkedin</span></div>
                 </div>
 
                 <div className="bg-white p-5 rounded-[20px] drop-shadow-2xl flex mr-[10px] transition-[1s] w-[100px] hover:w-[290px]"><img src={mail_img} class="w-[60px]"></img>
-                    <div className="overflow-hidden mt-2 ml-[20px]"><span class="">tombrossard0</span></div>
+                    <div className="overflow-hidden mt-2 ml-[20px]"><span class="">mail</span></div>
                 </div>
             </div>
 
