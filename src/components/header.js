@@ -36,11 +36,11 @@ const Header = (props) => {
         scrollPercent >= 0.7 ? about.classList.add('text-purple-500') : about.classList.remove('text-purple-500');
         scrollPercent >= 0.7 ? about.classList.add('font-bold') : about.classList.remove('font-bold');
     };
-
+    
     /* {active === anchor ? "group text-purple-500 font-bold hover:text-purple-400 " : "group hover:text-white ".concat(anchor)} */
 
     return (
-        <div className="header-section mx-10 h-14 rounded-[50px] mt-5 flex items-center shadow-lg fixed backdrop-blur-sm z-[10] transition-[0.3s] bg-[#ac7ceb10]">
+        <div className="header-section mx-10 h-14 rounded-[50px] mt-5 flex items-center shadow-lg fixed backdrop-blur-sm z-[10] transition-[0.3s] bg-[#ac7ceb00]">
             <div class="w-10 ml-5">
                 <a href="#Home"><img src={profile_img} alt="profile" className="profile w-8"/></a>
             </div>
