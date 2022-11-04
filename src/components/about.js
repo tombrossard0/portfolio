@@ -1,5 +1,5 @@
 import React from "react";
-import profile_img from "../images/profile.png";
+import profile_img from "../images/profile.png"
 import Little_box from './little_box'
 
 
